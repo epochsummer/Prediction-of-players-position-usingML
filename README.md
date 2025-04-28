@@ -6,3 +6,10 @@ Logistic Regression:
 - Added Regularization (penalty and l1ratio Drew the feature coefficient)
 - Did the decision boundaries
 - Used Regularizatin to prevent verfit and underfit
+
+
+Accuracy: 1660 with feature 6 and got 63 percent Accuracy
+
+SVM:
+
+Neural Network:
